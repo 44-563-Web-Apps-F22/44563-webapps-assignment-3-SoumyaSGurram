@@ -1,4 +1,4 @@
 eq# WebApps-F22-Assignment-3
 Assignment 3 - Basic HTML
 
-link[https://44-563-web-apps-f22.github.io/44563-webapps-assignment-3-SoumyaSGurram/](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-3-SoumyaSGurram/)
+Hosted at [https://44-563-web-apps-f22.github.io/44563-webapps-assignment-3-SoumyaSGurram/](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-3-SoumyaSGurram/)
